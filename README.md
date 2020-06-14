@@ -1,2 +1,2 @@
-# Roteiro_jogo_equipe
+# Roteiro jogo equipe
  Cenário onde vai começar o jogo.
